@@ -1,5 +1,15 @@
 # 📊 Análisis Exploratorio de Datos (EDA) - Dataset de Ventas
 
+## Portada
+
+**Estudiante:** Patricio Gonzales Barboza
+
+**Módulo:** Análisis de Datos con Python y SQL
+
+**Proyecto:** Análisis de Ventas de una Empresa Retail
+
+**Fuente del dataset:** :https://www.kaggle.com/datasets/krakenteach13/ventas-tienda
+
 ## Descripción
 
 Este proyecto consiste en la realización de un **Análisis Exploratorio de Datos (EDA)** utilizando Python en Google Colab. El objetivo es comprender la estructura del conjunto de datos, evaluar su calidad, obtener estadísticas descriptivas, visualizar el comportamiento de las ventas y realizar consultas SQL mediante DuckDB.
@@ -151,6 +161,7 @@ fig.update_layout(
 
 fig.show()
 ```
+![alt text](image.png)
 
 ---
 
@@ -327,6 +338,3 @@ Ordena los productos según la cantidad vendida, desde la menor hasta la mayor.
 
 Las consultas SQL desarrolladas permitieron analizar el comportamiento de las ventas desde diferentes perspectivas, como el desempeño por tienda, producto y categoría. Asimismo, se aplicaron filtros, agrupaciones y ordenamientos para obtener información relevante que facilita la interpretación de los datos y la toma de decisiones.
 
-## Autor
-
-**Patricio Gonzales**
